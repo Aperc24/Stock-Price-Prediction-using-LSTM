@@ -40,7 +40,7 @@ To run this project, you'll need the following Python libraries:
 - `numpy`
 - `pandas`
 - `matplotlib`
-- `tensorflow`
+- `keras`
 - `yfinance`
 - `scikit-learn`
 
